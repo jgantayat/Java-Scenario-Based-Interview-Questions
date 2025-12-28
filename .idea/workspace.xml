@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4839ff63-9556-4cbf-97da-ad31d2bd049e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/HashMap_TreeMap_ConcurrentHashMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/HashMap_vs_ConcurrentHashMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/JVM_MEMORY_MANAGEMENT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/Singleton_VS_Normal_Java_Class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/StaticReferenceAndGarbageCollectionScenario.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/Two_Threads_Access_A_HashMap_Concurrently.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concepts_guru/Two_Threads_Update_A_Bank_Balance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Scenario-Based-Interview-Questions.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="37Pu78nXUH36j2DIxk198mwv19C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/QuestionsAnswers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4839ff63-9556-4cbf-97da-ad31d2bd049e" name="Changes" comment="" />
+      <created>1766816856368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766816856368</updated>
+    </task>
+    <servers />
+  </component>
+</project>
