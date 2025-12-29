@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4839ff63-9556-4cbf-97da-ad31d2bd049e" name="Changes" comment="Add comprehensive documentation on HashMap, TreeMap, and ConcurrentHashMap usage and performance considerations">
-      <change afterPath="$PROJECT_DIR$/Concepts_guru/Checked_Exception_Deep_In_The_Code.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concepts_guru/REST_API_NULL_EXCEPTION_RESPONSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concepts_guru/Thread‑safe_Singleton_Design.md" afterDir="false" />
+    <list default="true" id="4839ff63-9556-4cbf-97da-ad31d2bd049e" name="Changes" comment="Add documentation on checked exceptions, REST API responses, and thread-safe Singleton design">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +59,20 @@
       <option name="project" value="LOCAL" />
       <updated>1766901959792</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add documentation on checked exceptions, REST API responses, and thread-safe Singleton design">
+      <option name="closed" value="true" />
+      <created>1766924186191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766924186191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add comprehensive documentation on HashMap, TreeMap, and ConcurrentHashMap usage and performance considerations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comprehensive documentation on HashMap, TreeMap, and ConcurrentHashMap usage and performance considerations" />
+    <MESSAGE value="Add documentation on checked exceptions, REST API responses, and thread-safe Singleton design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add documentation on checked exceptions, REST API responses, and thread-safe Singleton design" />
   </component>
 </project>
